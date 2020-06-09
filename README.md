@@ -16,7 +16,7 @@ shopro商城，一款基于uni-app的前端模板商城。目前适配了（小�
 
 |![](https://images.gitee.com/uploads/images/2020/0609/154538_14f88f04_2264724.jpeg "首页.jpg")|![](https://images.gitee.com/uploads/images/2020/0609/154615_f819b1e8_2264724.jpeg "首页直播.jpg")|![](https://images.gitee.com/uploads/images/2020/0609/154650_f80311d8_2264724.jpeg "分类.jpg") |![](https://images.gitee.com/uploads/images/2020/0609/155021_7fdcaab7_2264724.jpeg "我的.jpg") |
 | ------------ | ------------ | ------------ | ------------ |
-|![](https://images.gitee.com/uploads/images/2020/0609/155041_28e25af7_2264724.jpeg "我的拼团.jpg")  |![](https://images.gitee.com/uploads/images/2020/0609/154816_2d13de51_2264724.jpeg "秒杀列表.jpg") |![](https://images.gitee.com/uploads/images/2020/0609/154831_f490adf5_2264724.jpeg "秒杀详情01.jpg") |![](https://images.gitee.com/uploads/images/2020/0609/155021_7fdcaab7_2264724.jpeg "我的.jpg")  |![](https://images.gitee.com/uploads/images/2020/0609/155041_28e25af7_2264724.jpeg "我的拼团.jpg")  |![](https://images.gitee.com/uploads/images/2020/0609/155054_ad93ce91_2264724.jpeg "选择规格.jpg")  |![](https://images.gitee.com/uploads/images/2020/0609/155104_b962b08b_2264724.jpeg "支付宝支付.jpg") |
+|![](https://images.gitee.com/uploads/images/2020/0609/155041_28e25af7_2264724.jpeg "我的拼团.jpg")  |![](https://images.gitee.com/uploads/images/2020/0609/154816_2d13de51_2264724.jpeg "秒杀列表.jpg") |![](https://images.gitee.com/uploads/images/2020/0609/154831_f490adf5_2264724.jpeg "秒杀详情01.jpg") |![](https://images.gitee.com/uploads/images/2020/0609/155054_ad93ce91_2264724.jpeg "选择规格.jpg")  |
 
 
 # Shopro演示站
